@@ -1,0 +1,44 @@
+.inlineBlock {
+    display: inline-block;
+    vertical-align: top;
+    padding: 200px;
+    font-family: Montserrat;
+    font-style: regular;
+    font-size: 28px;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+    display: inline-block;
+    vertical-align: center;
+    margin: center;
+}
+ 
+.class {
+    width: 23%;
+    padding: 1%;
+}
+
+h1 {
+  font-family: "Crimson Pro", serif;
+  font-size: 96px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+p {
+    font-family: Montserrat;
+    font-style: regular;
+    font-size: 28px;
+}
+
+button {
+    color: black;
+    background-color: #adadad;
+    font: Montserrat;
+    font-style: regular;
+    font-size: 18px;
+    height: 64px;
+    width: 184px;
+}
